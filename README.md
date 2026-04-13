@@ -21,7 +21,7 @@ A web-based dashboard to manage patient data and visualize health records.
 
 
 ## 📷 Screenshots
-[https://github.com/VudayagiriNavya/patient-dashboard/blob/main/Screenshot%202026-04-13%20101733.png?raw=true](url)
+![Dashboard](https://github.com/VudayagiriNavya/patient-dashboard/blob/main/Screenshot%202026-04-13%20101733.png)
 
 ## ▶️ How to Run
 1. Download or clone the repository to your local system.
